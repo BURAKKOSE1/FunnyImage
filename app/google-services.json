@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589939801753",
+    "project_id": "funnyimage-70d76",
+    "storage_bucket": "funnyimage-70d76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589939801753:android:dbe3b6bf989f5358d20208",
+        "android_client_info": {
+          "package_name": "com.example.funnyimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589939801753-vn4dueg5mfkinms1ud6he8lkcrpja06g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXjvylVYi8GIO6m60tcP97VKER3JhxyVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589939801753-vn4dueg5mfkinms1ud6he8lkcrpja06g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
